@@ -1,9 +1,5 @@
 # 🌐 Personal Portfolio Website
 
-A clean and modern portfolio website to showcase my projects, skills, and experience.
-
-![Portfolio Banner](https://raw.githubusercontent.com/realsunil/portfolio-template/main/assets/banner.png)
-
 ## 🖥️ Live Preview
 
 [Click here to visit the live site 🚀](https://sunilgaming.pages.dev/)
